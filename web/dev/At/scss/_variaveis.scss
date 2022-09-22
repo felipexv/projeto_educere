@@ -1,0 +1,37 @@
+//-- Fontes --//
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+$corpo: 'Exo 2', sans-serif;
+$titulo: 'Exo 2', sans-serif;
+$tam-fonte-a: 22px;
+$tam-fonte-b: 30px;
+$tam-fonte-c: 48px;
+$tam-fonte-d: 180px;  
+
+//-- Cores --//
+
+$cor-a: #90CEC8;
+$cor-b: #4FB8A7;
+$cor-c: #139F85;
+$cor-d: #10806B;
+$cor-texto: #3c3c3b;
+$cor-texto-claro: white;
+$transparente: rgba(0,0,0,0);
+
+//-- Imagens --//
+
+$bg-pagina: url('../img/bg.jpg');
+$icone-menu: url('../img/icones_menu.svg');
+$icone-teoria: url('../img/icones_teoria.svg');
+$icone-atividade: url('../img/icones_atividade.svg');
+$icone-audio: url('../img/icones_audio.svg');
+$icone-proximo: url('../img/icones_direita.svg');
+$icone-anterior: url('../img/icones_esquerda.svg'); 
+$icone-teclado: url('../img/icones_teclado.svg');
+
+//-- Tamanhos de tela --//
+$pq: 1024px;
+$md: 1360px;
+$gd: 1920px;
+
+//-- Sombreamento --//
+$sombra-padrao: 0 0 10px rgba($color: #000000, $alpha: 0.4);
